@@ -1,0 +1,2 @@
+# store_procedure_function_trigger_practice-1-
+store_procedure_function_trigger_practice(1)
